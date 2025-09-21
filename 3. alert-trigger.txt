@@ -12,11 +12,11 @@ alertmanager:
       - name: 'gmail-notifications'
         email_configs:
         - to: g.prasanth532@gmail.com
-          from: kkeducationblr@gmail.com # Update your from mail id here
+          from: yvaralakshmi69@gmail.com # Update your from mail id here
           smarthost: smtp.gmail.com:587
-          auth_username: kkeducationblr@gmail.com # Update your from mail id here
-          auth_identity: kkeducationblr@gmail.com # Update your from mail id here
-          auth_password: oydlxztekhkrmmyi # app password here
+          auth_username: yvaralakshmi69@gmail.com # Update your from mail id here
+          auth_identity: yvaralakshmi69@gmail.com # Update your from mail id here
+          auth_password: ecnd iejk rybf dqsq  # app password here
           send_resolved: true
           headers:
             subject: " Prometheus -  Alert  "
